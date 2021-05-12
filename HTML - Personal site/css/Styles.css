@@ -1,0 +1,22 @@
+body {
+  background-color: cadetblue;
+
+}
+
+hr {
+  background-color: cadetblue;
+  border-style: none;
+  border-top-style: dotted;
+
+
+  border-width: 5px;
+  border-color: grey;
+
+  width: 15%;
+}
+h1{
+  color: olive;
+}
+h3{
+  color: olive;
+}
